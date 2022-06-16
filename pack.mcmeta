@@ -1,6 +1,6 @@
 ﻿{
   "pack": {
-    "pack_format": 6,
-    "description": "Plants from §dBetterNether§r will §dglow§r with optifine installed"
+    "pack_format": 8,
+    "description": "Additional emissive textures for §cBN§r and §dBE§r mods"
   }
 }
