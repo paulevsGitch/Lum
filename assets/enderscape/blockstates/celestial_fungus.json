@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "enderscape:block/celestial_fungus", "weight": 2 },
+			{ "model": "enderscape:block/celestial_fungus_1" },
+			{ "model": "enderscape:block/celestial_fungus_2" },
+			{ "model": "enderscape:block/celestial_fungus_3", "weight": 2 }
+		]
+	}
+}

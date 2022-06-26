@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"part=top": [
+			{ "model": "enderscape:block/celestial_growth_top" },
+			{ "model": "enderscape:block/celestial_growth_top_1" },
+			{ "model": "enderscape:block/celestial_growth_top_2" },
+			{ "model": "enderscape:block/celestial_growth_top_3", "weight": 4 }
+		],
+		"part=middle": [
+			{ "model": "enderscape:block/celestial_growth_middle" },
+			{ "model": "enderscape:block/celestial_growth_middle_1" },
+			{ "model": "enderscape:block/celestial_growth_middle_2" },
+			{ "model": "enderscape:block/celestial_growth_middle_3", "weight": 4 }
+		],
+		"part=bottom": [
+			{ "model": "enderscape:block/celestial_growth_bottom" },
+			{ "model": "enderscape:block/celestial_growth_bottom_1" },
+			{ "model": "enderscape:block/celestial_growth_bottom_2" },
+			{ "model": "enderscape:block/celestial_growth_bottom_3", "weight": 4 }
+		]
+	}
+}

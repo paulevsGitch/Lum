@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"": [
+			{ "model": "enderscape:block/celestial_cap", "weight": 4 },
+			{ "model": "enderscape:block/celestial_cap_1" },
+			{ "model": "enderscape:block/celestial_cap_2" },
+			{ "model": "enderscape:block/celestial_cap_3" },
+			{ "model": "enderscape:block/celestial_cap_4" },
+			{ "model": "enderscape:block/celestial_cap_5", "weight": 4 }
+		]
+	}
+}
